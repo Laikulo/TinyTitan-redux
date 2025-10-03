@@ -1,0 +1,15 @@
+[submodule "tooling/TinyTitan"]
+	path = tooling/TinyTitan
+	url = https://github.com/TinyTitan/TinySetup
+[submodule "workloads/SPH"]
+	path = workloads/SPH
+	url = https://github.com/TinyTitan/SPH.git
+[submodule "workloads/PiBrot"]
+	path = workloads/PiBrot
+	url = https://github.com/TinyTitan/PiBrot.git
+[submodule "workloads/Numeric-Integration"]
+	path = workloads/Numeric-Integration
+	url = https://github.com/TinyTitan/Numeric-Integration.git
+[submodule "workloads/GravityExperiment"]
+	path = workloads/GravityExperiment
+	url = https://github.com/TinyTitan/TinyTitan-GravityExperiment.git
